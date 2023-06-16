@@ -9,7 +9,7 @@
 
 Clone repository, then:
 
-```
+```elixir
 cd elixir_identicon
 
 mix deps.get
