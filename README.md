@@ -1,4 +1,27 @@
+
+<p align="left">
+  <img style="display: block; width: 110px; height: 110px;" src="https://github.com/babilonczyk/elixir-identicon/blob/main/images/babilonczyk.png?raw=true" />
+</p>
+
 # Elixir Identicon
+
+###How to Run?
+
+Clone repository, then:
+
+```
+cd elixir_identicon
+
+mix deps.get
+
+iex -S mix  
+
+  iex> ElixirIdenticon.generate("babilonczyk")
+    :ok
+
+# Check yourimages directory :)
+```
+
 
 The goal of this project is to create a simple application that will generate the Github-like logo images, based on the string input. They should be "replicable", meaning once the same input was passed, the same identicon will be generated.
 
