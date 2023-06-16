@@ -19,7 +19,7 @@ iex -S mix
   iex> ElixirIdenticon.generate("babilonczyk")
     :ok
 
-# Check yourimages directory :)
+# Check your images directory :)
 ```
 
 
