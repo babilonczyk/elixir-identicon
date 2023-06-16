@@ -5,7 +5,7 @@
 
 # Elixir Identicon
 
-###How to Run?
+### How to Run?
 
 Clone repository, then:
 
